@@ -2,6 +2,8 @@
 
 is as easy as the tutorial says it is!
 
+lookie here: https://vanilla-deployment.panzerstadt.vercel.app/
+
 ## drawbacks
 
 - no jsx
